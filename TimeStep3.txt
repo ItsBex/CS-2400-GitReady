@@ -1,0 +1,10 @@
+S I S 
+I I R 
+I R I 
+
+Statistics for Time Step 3:
+Susceptible Individuals: 2
+Infected Individuals: 5
+Recovered Individuals: 2
+Infected Ratio: 5/9 (0.5555555555555556)
+This is the end of the file.
