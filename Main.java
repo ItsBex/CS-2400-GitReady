@@ -68,7 +68,7 @@ public class Main {
             }
             grid.printGrid(time + 1);
         }
-       
+       scanner.close();
     }
 
     //Method to check if a Person is next to an infected person
